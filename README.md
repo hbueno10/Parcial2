@@ -1,5 +1,4 @@
 # Parcial2
-# Examen / Recuperación - CarritoCompra
 
 Descripción
 - Proyecto sencillo para gestionar un carrito de compra con productos.
